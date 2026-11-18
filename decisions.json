@@ -1,0 +1,498 @@
+[
+  {
+    "date": "2021-04-07",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR1686FA91F0B6A84EA1AB57CCA8CB190914.pdf",
+    "locator": "Opening policy bullets",
+    "rationale": "Support a durable recovery and cushion the pandemic while protecting the inflation target.",
+    "digest": [
+      "The policy repo rate was held at 4.00%.",
+      "Support a durable recovery and cushion the pandemic while protecting the inflation target.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2021-06-04",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR317GS64A93050E3344EF9B02EE1ACBDF3B00E.pdf",
+    "locator": "Governor’s statement, opening discussion",
+    "rationale": "The second pandemic wave threatened the recovery.",
+    "digest": [
+      "The second pandemic wave threatened the recovery.",
+      "The committee left the repo rate at 4.00%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2021-08-06",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR644ML06082021.pdf",
+    "locator": "Opening policy bullets",
+    "rationale": "Sustain growth and manage the pandemic shock while keeping inflation within target.",
+    "digest": [
+      "Sustain growth and manage the pandemic shock while keeping inflation within target.",
+      "The CPI target carries a tolerance band.",
+      "The policy repo rate remained 4.00%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2021-10-08",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=52366",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Continue supporting recovery from the pandemic while keeping future inflation on target.",
+    "digest": [
+      "The committee retained the policy repo rate of 4.00%.",
+      "Continue supporting recovery from the pandemic while keeping future inflation on target.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2021-12-08",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR132208122021.pdf",
+    "locator": "December 8 entry, MPC resolution, opening bullets",
+    "rationale": "Maintain support for the recovery while guarding the inflation target.",
+    "digest": [
+      "Maintain support for the recovery while guarding the inflation target.",
+      "The MPC retained a 4.00% policy repo rate.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2022-02-10",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Commonperson/english/Scripts/PressReleases.aspx?Id=3348",
+    "locator": "Opening policy bullets",
+    "rationale": "Keep the recovery going and mitigate pandemic damage while monitoring inflation.",
+    "digest": [
+      "Keep the recovery going and mitigate pandemic damage while monitoring inflation.",
+      "The CPI target carries a tolerance band.",
+      "The committee kept the repo rate at 4.00%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2022-04-08",
+    "previous_bps": 400,
+    "rate_bps": 400,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR37GSE79E078854F140D7972F9A50A4B86193.pdf",
+    "locator": "Governor’s statement, opening decision",
+    "rationale": "Shift attention toward removing accommodation while supporting growth.",
+    "digest": [
+      "The rate for policy repo operations stayed at 4.00%.",
+      "Shift attention toward removing accommodation while supporting growth.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2022-05-04",
+    "previous_bps": 400,
+    "rate_bps": 440,
+    "change_bps": 40,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR154MPC04052022.pdf",
+    "locator": "Opening decision and rationale near end",
+    "rationale": "Inflation risks intensified amid commodity and supply shocks.",
+    "digest": [
+      "Inflation risks intensified amid commodity and supply shocks.",
+      "The MPC raised the policy repo rate to 4.40%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2022-06-08",
+    "previous_bps": 440,
+    "rate_bps": 490,
+    "change_bps": 50,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/commonman/Upload/English/PressRelease/PDFs/PR335ML08062022.pdf",
+    "locator": "Opening decision and rationale near end",
+    "rationale": "Withdraw accommodation as broad price pressures persisted.",
+    "digest": [
+      "Withdraw accommodation as broad price pressures persisted.",
+      "The CPI target carries a tolerance band.",
+      "The new repo rate was set at 4.90%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2022-08-05",
+    "previous_bps": 490,
+    "rate_bps": 540,
+    "change_bps": 50,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1384",
+    "locator": "Monetary Policy Department chronology, August 5",
+    "rationale": "Continue withdrawing accommodation to return inflation toward target while supporting growth.",
+    "digest": [
+      "The MPC increased the policy repo rate to 5.40%.",
+      "Continue withdrawing accommodation to return inflation toward target while supporting growth.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2022-09-30",
+    "previous_bps": 540,
+    "rate_bps": 590,
+    "change_bps": 50,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54465",
+    "locator": "Opening policy decision and closing outlook",
+    "rationale": "Inflation remained elevated and required further withdrawal of accommodation.",
+    "digest": [
+      "Inflation remained elevated and required further withdrawal of accommodation.",
+      "The MPC lifted its benchmark repo rate to 5.90%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2022-12-07",
+    "previous_bps": 590,
+    "rate_bps": 625,
+    "change_bps": 35,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54818",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Inflation remained above tolerance and the outlook was uncertain.",
+    "digest": [
+      "Inflation remained above tolerance and the outlook was uncertain.",
+      "The CPI target carries a tolerance band.",
+      "The policy repo rate rose to 6.25%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2023-02-08",
+    "previous_bps": 625,
+    "rate_bps": 650,
+    "change_bps": 25,
+    "action": "raise",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55178",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Core prices remained persistent and inflation had yet to durably fall.",
+    "digest": [
+      "The policy repo rate was lifted to 6.50%.",
+      "Core prices remained persistent and inflation had yet to durably fall.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2023-04-06",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55472",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Assess the effects of prior tightening amid resilient activity and elevated inflation.",
+    "digest": [
+      "Assess the effects of prior tightening amid resilient activity and elevated inflation.",
+      "India's repo rate remained 6.50%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2023-06-08",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55814",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Price pressures eased but the committee sought stronger alignment with its inflation target.",
+    "digest": [
+      "Price pressures eased but the committee sought stronger alignment with its inflation target.",
+      "The CPI target carries a tolerance band.",
+      "The MPC kept the policy repo rate at 6.50%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2023-08-10",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=56173",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "The committee remained alert to food-price shocks and their spillovers.",
+    "digest": [
+      "The policy repo rate stayed at 6.50%.",
+      "The committee remained alert to food-price shocks and their spillovers.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2023-10-06",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=56502",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Sustain progress on disinflation amid volatility in prices of food and energy.",
+    "digest": [
+      "Sustain progress on disinflation amid volatility in prices of food and energy.",
+      "The council held its repo rate at 6.50%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2023-12-08",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=56887",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Persist with disinflation given uncertainty about food prices.",
+    "digest": [
+      "Persist with disinflation given uncertainty about food prices.",
+      "The CPI target carries a tolerance band.",
+      "The committee retained its repo benchmark of 6.50%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2024-02-08",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57275",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Sustain disinflation amid recurring food shocks.",
+    "digest": [
+      "The policy repo rate was kept at 6.50%.",
+      "Sustain disinflation amid recurring food shocks.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2024-04-05",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57637",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Continue disinflation until price growth durably reaches target.",
+    "digest": [
+      "Continue disinflation until price growth durably reaches target.",
+      "The policy repo rate stayed at 6.50%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2024-06-07",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58050",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Keep withdrawing accommodation to align inflation with target while supporting growth.",
+    "digest": [
+      "Keep withdrawing accommodation to align inflation with target while supporting growth.",
+      "The CPI target carries a tolerance band.",
+      "The MPC held the repo rate at 6.50%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2024-08-08",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58447",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Food-price inflation called for vigilance to contain spillovers.",
+    "digest": [
+      "The benchmark rate for repurchase operations remained 6.50%.",
+      "Food-price inflation called for vigilance to contain spillovers.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2024-10-09",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=58850",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "A more balanced inflation and growth outlook allowed a shift to neutral.",
+    "digest": [
+      "A more balanced inflation and growth outlook allowed a shift to neutral.",
+      "The repo benchmark stayed at 6.50%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2024-12-06",
+    "previous_bps": 650,
+    "rate_bps": 650,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=59244",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Elevated inflation narrowed room for immediate easing despite the growth slowdown.",
+    "digest": [
+      "Elevated inflation narrowed room for immediate easing despite the growth slowdown.",
+      "The CPI target carries a tolerance band.",
+      "The committee chose a 6.50% policy repo rate."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2025-02-07",
+    "previous_bps": 650,
+    "rate_bps": 625,
+    "change_bps": -25,
+    "action": "cut",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=59692",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "A softer expected inflation trajectory offered room to support growth.",
+    "digest": [
+      "The policy repo rate fell to 6.25%.",
+      "A softer expected inflation trajectory offered room to support growth.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2025-04-09",
+    "previous_bps": 625,
+    "rate_bps": 600,
+    "change_bps": -25,
+    "action": "cut",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60176",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "A benign domestic inflation outlook and external growth risks created space to support growth.",
+    "digest": [
+      "A benign domestic inflation outlook and external growth risks created space to support growth.",
+      "The policy repo rate was lowered to 6.00%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2025-06-06",
+    "previous_bps": 600,
+    "rate_bps": 550,
+    "change_bps": -50,
+    "action": "cut",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60604",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Broad price moderation opened room for front-loaded support to growth.",
+    "digest": [
+      "Broad price moderation opened room for front-loaded support to growth.",
+      "The CPI target carries a tolerance band.",
+      "The MPC lowered the repo rate to 5.50%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2025-08-06",
+    "previous_bps": 550,
+    "rate_bps": 550,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Monitor the outlook given prior easing and global uncertainty.",
+    "digest": [
+      "The rate for repo operations stayed at 5.50%.",
+      "Monitor the outlook given prior easing and global uncertainty.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  },
+  {
+    "date": "2025-10-01",
+    "previous_bps": 550,
+    "rate_bps": 550,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61332",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "Assess the effects of past easing and preserve flexibility given external uncertainty.",
+    "digest": [
+      "Assess the effects of past easing and preserve flexibility given external uncertainty.",
+      "The MPC reaffirmed the policy repo rate at 5.50%.",
+      "The policy outlook weighs inflation and growth."
+    ],
+    "evidence": 1
+  },
+  {
+    "date": "2025-12-05",
+    "previous_bps": 550,
+    "rate_bps": 525,
+    "change_bps": -25,
+    "action": "cut",
+    "source": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23842",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "A benign inflation outlook created policy space to support growth.",
+    "digest": [
+      "A benign inflation outlook created policy space to support growth.",
+      "The CPI target carries a tolerance band.",
+      "The repo rate was reduced to 5.25%."
+    ],
+    "evidence": 2
+  },
+  {
+    "date": "2026-02-06",
+    "previous_bps": 525,
+    "rate_bps": 525,
+    "change_bps": 0,
+    "action": "hold",
+    "source": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62170",
+    "locator": "Opening decision; outlook and rationale sections",
+    "rationale": "The near-term inflation and growth outlook remained favorable despite external risks.",
+    "digest": [
+      "The benchmark repurchase rate was unchanged at 5.25%.",
+      "The near-term inflation and growth outlook remained favorable despite external risks.",
+      "The medium-term CPI inflation target was 4%."
+    ],
+    "evidence": 0
+  }
+]

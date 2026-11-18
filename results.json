@@ -1,0 +1,300 @@
+{
+  "train": 19,
+  "test": 12,
+  "classes": {
+    "hold": 8,
+    "cut": 4
+  },
+  "totals": {
+    "rules": {
+      "action": 12,
+      "rate_bps": 12,
+      "change_bps": 12,
+      "evidence": 12
+    },
+    "naive_bayes": {
+      "action": 12,
+      "rate_bps": 12,
+      "change_bps": 12,
+      "evidence": 12
+    }
+  },
+  "decisions": [
+    {
+      "date": "2024-04-05",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 650,
+        "change_bps": 0,
+        "evidence": 1
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 1,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 1,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2024-06-07",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 650,
+        "change_bps": 0,
+        "evidence": 2
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 2,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 2,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2024-08-08",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 650,
+        "change_bps": 0,
+        "evidence": 0
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 0,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 0,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2024-10-09",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 650,
+        "change_bps": 0,
+        "evidence": 1
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 1,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 1,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2024-12-06",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 650,
+        "change_bps": 0,
+        "evidence": 2
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 2,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 2,
+          "rate_bps": 650,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2025-02-07",
+      "gold": {
+        "action": "cut",
+        "rate_bps": 625,
+        "change_bps": -25,
+        "evidence": 0
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 0,
+          "rate_bps": 625,
+          "change_bps": -25,
+          "action": "cut"
+        },
+        "naive_bayes": {
+          "evidence": 0,
+          "rate_bps": 625,
+          "change_bps": -25,
+          "action": "cut"
+        }
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "gold": {
+        "action": "cut",
+        "rate_bps": 600,
+        "change_bps": -25,
+        "evidence": 1
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 1,
+          "rate_bps": 600,
+          "change_bps": -25,
+          "action": "cut"
+        },
+        "naive_bayes": {
+          "evidence": 1,
+          "rate_bps": 600,
+          "change_bps": -25,
+          "action": "cut"
+        }
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "gold": {
+        "action": "cut",
+        "rate_bps": 550,
+        "change_bps": -50,
+        "evidence": 2
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 2,
+          "rate_bps": 550,
+          "change_bps": -50,
+          "action": "cut"
+        },
+        "naive_bayes": {
+          "evidence": 2,
+          "rate_bps": 550,
+          "change_bps": -50,
+          "action": "cut"
+        }
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 550,
+        "change_bps": 0,
+        "evidence": 0
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 0,
+          "rate_bps": 550,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 0,
+          "rate_bps": 550,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 550,
+        "change_bps": 0,
+        "evidence": 1
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 1,
+          "rate_bps": 550,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 1,
+          "rate_bps": 550,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "gold": {
+        "action": "cut",
+        "rate_bps": 525,
+        "change_bps": -25,
+        "evidence": 2
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 2,
+          "rate_bps": 525,
+          "change_bps": -25,
+          "action": "cut"
+        },
+        "naive_bayes": {
+          "evidence": 2,
+          "rate_bps": 525,
+          "change_bps": -25,
+          "action": "cut"
+        }
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "gold": {
+        "action": "hold",
+        "rate_bps": 525,
+        "change_bps": 0,
+        "evidence": 0
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 0,
+          "rate_bps": 525,
+          "change_bps": 0,
+          "action": "hold"
+        },
+        "naive_bayes": {
+          "evidence": 0,
+          "rate_bps": 525,
+          "change_bps": 0,
+          "action": "hold"
+        }
+      }
+    }
+  ]
+}

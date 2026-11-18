@@ -1,0 +1,92 @@
+{
+  "train": 7,
+  "test": 3,
+  "classes": {
+    "raise": 3
+  },
+  "totals": {
+    "rules": {
+      "action": 3,
+      "rate_bps": 3,
+      "change_bps": 3,
+      "evidence": 3
+    },
+    "naive_bayes": {
+      "action": 3,
+      "rate_bps": 3,
+      "change_bps": 3,
+      "evidence": 3
+    }
+  },
+  "decisions": [
+    {
+      "date": "2022-06-08",
+      "gold": {
+        "action": "raise",
+        "rate_bps": 490,
+        "change_bps": 50,
+        "evidence": 2
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 2,
+          "rate_bps": 490,
+          "change_bps": 50,
+          "action": "raise"
+        },
+        "naive_bayes": {
+          "evidence": 2,
+          "rate_bps": 490,
+          "change_bps": 50,
+          "action": "raise"
+        }
+      }
+    },
+    {
+      "date": "2022-08-05",
+      "gold": {
+        "action": "raise",
+        "rate_bps": 540,
+        "change_bps": 50,
+        "evidence": 0
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 0,
+          "rate_bps": 540,
+          "change_bps": 50,
+          "action": "raise"
+        },
+        "naive_bayes": {
+          "evidence": 0,
+          "rate_bps": 540,
+          "change_bps": 50,
+          "action": "raise"
+        }
+      }
+    },
+    {
+      "date": "2022-09-30",
+      "gold": {
+        "action": "raise",
+        "rate_bps": 590,
+        "change_bps": 50,
+        "evidence": 1
+      },
+      "predictions": {
+        "rules": {
+          "evidence": 1,
+          "rate_bps": 590,
+          "change_bps": 50,
+          "action": "raise"
+        },
+        "naive_bayes": {
+          "evidence": 1,
+          "rate_bps": 590,
+          "change_bps": 50,
+          "action": "raise"
+        }
+      }
+    }
+  ]
+}
