@@ -1,6 +1,6 @@
 # Evaluation protocol and labels
 
-The question is whether a learned sentence ranker extracts policy repo rate decisions and locates evidence in short RBI decision digests. Compare a keyword rule with multinomial Naive Bayes trained on earlier digests. The first ten announcements (through 2022-09-30) are the development pilot. Evaluate a chronological holdout starting 2024-04-05. Include every decision in the frozen test manifest and report class counts.
+The question is whether a learned sentence ranker extracts policy repo rate decisions and locates evidence in short RBI decision digests. Compare a keyword rule with multinomial Naive Bayes trained on earlier digests. The ten announcements selected for the initial development pilot span 2021-04-07 to 2022-09-30. The October 2021 decision was added during expansion and is outside the pilot. Use seven pilot rows for training and three for validation. Evaluate a chronological holdout starting 2024-04-05. Include every decision in the frozen test manifest and report class counts.
 
 Label the decision using only the policy repo rate announced by the Monetary Policy Committee. A change in reserve ratio or stance does not affect the action label. Store rates as integer basis points, and compute the signed change by subtracting the preceding repo rate. Tag the sentence in the digest supporting the repo rate as evidence. Keep a separate source locator for the stated motivation, which may reflect the broad objective or stance when a source gives no specific causal account.
 
